@@ -1,0 +1,23 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.ejemplo{
+    background-color: rgb(196, 180, 173);
+    padding:30px;
+}
+
+.ejemplo h1{
+    text-align: center;
+    padding: 20px;
+}
+code{
+    display: block;
+    color: blue;
+    margin-top:10px;
+}
+.ejemplo ul li {
+    margin-bottom: 15px;
+}
